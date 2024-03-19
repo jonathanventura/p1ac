@@ -31,7 +31,7 @@ Ventura, Jonathan, Kueklova, Zuzana, Sattler, Torsten and Baráth, Dániel.  [P1
 
     @InProceedings{Ventura_2023_ICCV,
         author    = {Ventura, Jonathan and Kukelova, Zuzana and Sattler, Torsten and Bar\'ath, D\'aniel},
-        title     = {P1AC: Revisiting Absolute Pose From a Single Affine Correspondence},
+        title     = {{P1AC}: Revisiting Absolute Pose From a Single Affine Correspondence},
         booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
         month     = {October},
         year      = {2023},
